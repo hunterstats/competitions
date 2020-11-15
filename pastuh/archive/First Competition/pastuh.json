@@ -1,0 +1,54 @@
+{
+	"status": {
+		"competition": "First Competition",
+		"hunter": "pastuh"
+	},
+	"results": [
+		{
+			"expedition": 97178692,
+			"reserve": "Redfeather Falls",
+			"qualification": {
+				"attempt": 1,
+				"multiplayer": false,
+				"collectables": false,
+				"hunt time": 120,
+				"cooldown": 0
+			},
+			"trophies": [
+				{
+					"requirements": {
+						"harvest time": "1603467073",
+						"animal_id": 747132441,
+						"specie": "Whitetail Deer (M)",
+						"score": 90.881,
+						"harvest value": 35.803,
+						"weight": 80.115,
+						"type": "Common (M)",
+						"wound time": 2.100,
+						"trophy integrity": 100
+					},
+					"scoretable": [
+						{
+							"weapons": "Compound Bow \"Pulsar\"",
+							"scope": true,
+							"shot distance": 3.270,
+							"animal state": "idle",
+							"shot placement": ["Body (Right Lung, Left Lung, Shoulder Blade)"],
+							"player stance": "Crouching",
+							"platform": "Waterfowl Blind"
+						},
+						{
+							"weapons": "Compound Bow \"Pulsar\"",
+							"scope": true,
+							"shot distance": 27.690,
+							"animal state": "idle",
+							"shot placement": ["Body (Spine 2)"],
+							"player stance": "Crouching",
+							"platform": "Waterfowl Blind"
+						}
+					]
+				}
+			]
+		}
+	]
+}

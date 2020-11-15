@@ -1,0 +1,45 @@
+{
+	"status": {
+		"competition": "Mini-Comp by pastuh",
+		"hunter": "pastuh"
+	},
+	"results": [
+		{
+			"expedition": 97188711,
+			"reserve": "Redfeather Falls",
+			"qualification": {
+				"attempt": 1,
+				"multiplayer": false,
+				"collectables": false,
+				"hunt time": 120,
+				"cooldown": 0
+			},
+			"trophies": [
+				{
+					"requirements": {
+						"harvest time": "1603885500",
+						"animal_id": 747337001,
+						"specie": "Whitetail Deer (M)",
+						"score": 59.881,
+						"harvest value": 25.803,
+						"weight": 69.925,
+						"type": "Common (M)",
+						"wound time": 44.518,
+						"trophy integrity": 70
+					},
+					"scoretable": [
+						{
+							"weapons": "Compound Bow \"Pulsar\"",
+							"scope": false,
+							"shot distance": 7.270,
+							"animal state": "running",
+							"shot placement": ["Body (Right Lung, Left Lung, Shoulder Blade)"],
+							"player stance": "Standing",
+							"platform": "None"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"status": {
+		"title": "First Competition",
+		"author": "pastuh",
+		"prize": 100,
+		"create-time": "1603551600",
+		"start-time": "2020-01-01 00:00",
+		"end-time": "2020-02-01 00:00",
+	},
+	"requirements": {
+		"reserves": ["Redfeather Falls"],
+		"species": ["Whitetail Deer"],
+		"types": ["M", "F"],
+		"scoring": ["combined weight"],
+		"harvest value": 0,
+		"weight": 50,
+		"wound time": 0,
+		"trophy integrity": 100
+	},
+	"score": {
+		"weapons": ["Any"],
+		"scope": true,
+		"shot distance": 0,
+		"animal state": ["Any"],
+		"shot placement": ["Any"],
+		"player stance": ["Any"],
+		"shots hit": ["Any"],
+		"platform": ["None", "Waterfowl Blind"]
+	},
+	"qualification": {
+		"attempts": 1,
+		"multiplayer": false,
+		"collectables": false,
+		"min hunt time": 60,
+		"cooldown": 30,
+	}
+}

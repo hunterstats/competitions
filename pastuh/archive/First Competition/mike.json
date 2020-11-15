@@ -1,0 +1,78 @@
+{
+	"status": {
+		"competition": "First Competition",
+		"hunter": "mike"
+	},
+	"results": [
+		{
+			"expedition": 97177955,
+			"reserve": "Redfeather Falls",
+			"qualification": {
+				"attempt": 1,
+				"multiplayer": false,
+				"collectables": false,
+				"hunt time": 145,
+				"cooldown": 0
+			},
+			"trophies": [
+				{
+					"requirements": {
+						"harvest time": "1578673800",
+						"animal_id": 747131277,
+						"specie": "Whitetail Deer (M)",
+						"score": 120.88,
+						"harvest value": 39.100,
+						"weight": 90.240,
+						"type": "Common (M)",
+						"wound time": 1.900,
+						"trophy integrity": 100
+					},
+					"scoretable": [
+						{
+							"weapons": "Compound Bow \"Pulsar\"",
+							"scope": true,
+							"shot distance": 3.270,
+							"animal state": "idle",
+							"shot placement": ["Body (Right Lung, Left Lung, Shoulder Blade)"],
+							"player stance": "Crouching",
+							"platform": "Waterfowl Blind"
+						},
+						{
+							"weapons": "Compound Bow \"Pulsar\"",
+							"scope": true,
+							"shot distance": 27.690,
+							"animal state": "idle",
+							"shot placement": ["Body (Spine 2)"],
+							"player stance": "Crouching",
+							"platform": "Waterfowl Blind"
+						}
+					]
+				},
+				{
+					"requirements": {
+						"harvest time": "1578837600",
+						"animal_id": 747131310,
+						"specie": "Whitetail Deer (F)",
+						"score": 80.88,
+						"harvest value": 17.100,
+						"weight": 60.240,
+						"type": "Common (F)",
+						"wound time": 65.2,
+						"trophy integrity": 100
+					},
+					"scoretable": [
+						{
+							"weapons": "Compound Bow \"Pulsar\"",
+							"scope": true,
+							"shot distance": 6.690,
+							"animal state": "idle",
+							"shot placement": ["Body (Spine 2)"],
+							"player stance": "Crouching",
+							"platform": "None"
+						}
+					]
+				}
+			]
+		}
+	]
+}

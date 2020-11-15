@@ -1,0 +1,37 @@
+{
+	"status": {
+		"title": "Mini-Comp",
+		"author": "pastuh",
+		"prize": 1000,
+		"create-time": "1603551600",
+		"start-time": "2020-10-26 00:00",
+		"end-time": "2020-11-01 00:00",
+	},
+	"requirements": {
+		"reserves": ["Redfeather Falls"],
+		"species": ["Whitetail Deer"],
+		"types": ["M", "F"],
+		"scoring": ["combined weight"],
+		"harvest value": 0,
+		"weight": 0,
+		"wound time": 0,
+		"trophy integrity": 50
+	},
+	"score": {
+		"weapons": ["Any"],
+		"scope": false,
+		"shot distance": 0,
+		"animal state": ["Any"],
+		"shot placement": ["Any"],
+		"player stance": ["Any"],
+		"shots hit": ["Any"],
+		"platform": ["Any"]
+	},
+	"qualification": {
+		"attempts": 2,
+		"multiplayer": false,
+		"collectables": false,
+		"min hunt time": 60,
+		"cooldown": 30,
+	}
+}

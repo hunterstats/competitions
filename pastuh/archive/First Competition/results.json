@@ -1,0 +1,22 @@
+{
+	"status": {
+		"title": "First Competition",
+		"author": "pastuh",
+		"prize": 100,
+		"end-time": "2020-02-01 00:00",
+		"winners": [
+			{
+				"hunter": "mike",
+				"expedition": 97177955,
+				"trophies": [747131277,747131310],
+				"weight": 150.48
+			},
+			{
+				"hunter": "pastuh",
+				"expedition": 97178692,
+				"trophies": [747132441],
+				"weight": 80.115
+			},
+		]
+	},
+}
